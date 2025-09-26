@@ -1,0 +1,437 @@
+{
+  "GameSystem_Id": 1,
+  "GameSystem_ImportId": "W40K10",
+  "GameSystem_Name": "Warhammer 40K",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "10th",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 1,
+      "AttributeSet_ImportId": "W40K10I",
+      "AttributeSet_Name": "Infantry",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "6\"",
+          "Trait_Id": 1,
+          "Trait_Name": "Movement (M)"
+        },
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 2,
+          "Trait_Name": "Toughness (T)"
+        },
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4+",
+          "Trait_Id": 3,
+          "Trait_Name": "Saving (SV)"
+        },
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 4,
+          "Trait_Name": "Wounds (W)"
+        },
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "7",
+          "Trait_Id": 5,
+          "Trait_Name": "Leadership (LD)"
+        },
+        {
+          "AttributeSet_Id": 1,
+          "AttributeSet_ImportId": "W40K10I",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "6",
+          "Trait_Id": 6,
+          "Trait_Name": "Objective Control (OC)"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 2,
+      "AttributeSet_ImportId": "W40K10EI",
+      "AttributeSet_Name": "Elite Infantry",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "6\"",
+          "Trait_Id": 34,
+          "Trait_Name": "Movement (M)"
+        },
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 35,
+          "Trait_Name": "Toughness (T)"
+        },
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 36,
+          "Trait_Name": "Saving (SV)"
+        },
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "2",
+          "Trait_Id": 37,
+          "Trait_Name": "Wounds (W)"
+        },
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "7",
+          "Trait_Id": 38,
+          "Trait_Name": "Leadership (LD)"
+        },
+        {
+          "AttributeSet_Id": 2,
+          "AttributeSet_ImportId": "W40K10EI",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "2",
+          "Trait_Id": 39,
+          "Trait_Name": "Objective Control (OC)"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 3,
+      "AttributeSet_ImportId": "W40K10V",
+      "AttributeSet_Name": "Vehicle",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "10\"",
+          "Trait_Id": 40,
+          "Trait_Name": "Movement (M)"
+        },
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "9",
+          "Trait_Id": 41,
+          "Trait_Name": "Toughness (T)"
+        },
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 42,
+          "Trait_Name": "Saving (SV)"
+        },
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "10",
+          "Trait_Id": 43,
+          "Trait_Name": "Wounds (W)"
+        },
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "8",
+          "Trait_Id": 44,
+          "Trait_Name": "Leadership (LD)"
+        },
+        {
+          "AttributeSet_Id": 3,
+          "AttributeSet_ImportId": "W40K10V",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "5",
+          "Trait_Id": 45,
+          "Trait_Name": "Objective Control (OC)"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 4,
+      "AttributeSet_ImportId": "W40K10M",
+      "AttributeSet_Name": "Monster",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "8\"",
+          "Trait_Id": 46,
+          "Trait_Name": "Movement (M)"
+        },
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "8",
+          "Trait_Id": 47,
+          "Trait_Name": "Toughness (T)"
+        },
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 48,
+          "Trait_Name": "Saving (SV)"
+        },
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "10",
+          "Trait_Id": 49,
+          "Trait_Name": "Wounds (W)"
+        },
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "8",
+          "Trait_Id": 50,
+          "Trait_Name": "Leadership (LD)"
+        },
+        {
+          "AttributeSet_Id": 4,
+          "AttributeSet_ImportId": "W40K10M",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "5",
+          "Trait_Id": 51,
+          "Trait_Name": "Objective Control (OC)"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 5,
+      "AttributeSet_ImportId": "W40K10C",
+      "AttributeSet_Name": "Character",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "6\"",
+          "Trait_Id": 52,
+          "Trait_Name": "Movement (M)"
+        },
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "5",
+          "Trait_Id": 53,
+          "Trait_Name": "Toughness (T)"
+        },
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 54,
+          "Trait_Name": "Saving (SV)"
+        },
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 55,
+          "Trait_Name": "Wounds (W)"
+        },
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "8",
+          "Trait_Id": 56,
+          "Trait_Name": "Leadership (LD)"
+        },
+        {
+          "AttributeSet_Id": 5,
+          "AttributeSet_ImportId": "W40K10C",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "2",
+          "Trait_Id": 57,
+          "Trait_Name": "Objective Control (OC)"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 6,
+      "AttributeSet_ImportId": "W40K10RW",
+      "AttributeSet_Name": "Ranged Weapon",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "24\"",
+          "Trait_Id": 58,
+          "Trait_Name": "Range (R)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 59,
+          "Trait_Name": "Attacks (A)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 60,
+          "Trait_Name": "Ballistic Skill (BS)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 61,
+          "Trait_Name": "Strength (S)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "0",
+          "Trait_Id": 62,
+          "Trait_Name": "Armour Penetration (AP)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 63,
+          "Trait_Name": "Damage (D)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10RW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "Rapid Fire",
+          "Trait_Id": 64,
+          "Trait_Name": "Type"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 7,
+      "AttributeSet_ImportId": "W40K10MW",
+      "AttributeSet_Name": "Melee Weapon",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 1,
+      "GameSystem_ImportId": "W40K10",
+      "Traits": [
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 65,
+          "Trait_Name": "Attacks (A)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "3+",
+          "Trait_Id": 66,
+          "Trait_Name": "Weapon Skill (WS)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 67,
+          "Trait_Name": "Strength (S)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "0",
+          "Trait_Id": 68,
+          "Trait_Name": "Armour Penetration (AP)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 69,
+          "Trait_Name": "Damage (D)"
+        },
+        {
+          "AttributeSet_Id": 6,
+          "AttributeSet_ImportId": "W40K10MW",
+          "GameSystem_ImportId": "W40K10",
+          "Trait_DefaultValue": "Melee",
+          "Trait_Id": 70,
+          "Trait_Name": "Type"
+        }
+      ]
+    }
+  ]
+}
