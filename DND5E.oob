@@ -1,0 +1,373 @@
+{
+  "GameSystem_Id": 2,
+  "GameSystem_ImportId": "DND5E",
+  "GameSystem_Name": "Dungeons and Dragons",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "5e",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 8,
+      "AttributeSet_ImportId": "DND5EC",
+      "AttributeSet_Name": "Character",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 2,
+      "GameSystem_ImportId": "DND5E",
+      "Traits": [
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 71,
+          "Trait_Name": "Strength (STR)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 72,
+          "Trait_Name": "Dexterity (DEX)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "14",
+          "Trait_Id": 73,
+          "Trait_Name": "Constitution (CON)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 74,
+          "Trait_Name": "Intelligence (INT)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 75,
+          "Trait_Name": "Wisdom (WIS)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 76,
+          "Trait_Name": "Charisma (CHA)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "13",
+          "Trait_Id": 77,
+          "Trait_Name": "Armor Class (AC)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "10",
+          "Trait_Id": 78,
+          "Trait_Name": "Hit Points (HP)"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "+2",
+          "Trait_Id": 79,
+          "Trait_Name": "Initiative"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "30",
+          "Trait_Id": 80,
+          "Trait_Name": "Speed"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "+2",
+          "Trait_Id": 81,
+          "Trait_Name": "Proficiency Bonus"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Human",
+          "Trait_Id": 82,
+          "Trait_Name": "Race"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Fighter",
+          "Trait_Id": 83,
+          "Trait_Name": "Class"
+        },
+        {
+          "AttributeSet_Id": 8,
+          "AttributeSet_ImportId": "DND5EC",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Soldier",
+          "Trait_Id": 84,
+          "Trait_Name": "Background"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 9,
+      "AttributeSet_ImportId": "DND5EW",
+      "AttributeSet_Name": "Weapon",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 2,
+      "GameSystem_ImportId": "DND5E",
+      "Traits": [
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Shortbow",
+          "Trait_Id": 85,
+          "Trait_Name": "Name"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Ranged",
+          "Trait_Id": 86,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "1d6",
+          "Trait_Id": 87,
+          "Trait_Name": "Damage"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Piercing",
+          "Trait_Id": 88,
+          "Trait_Name": "Damage Type"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Light",
+          "Trait_Id": 89,
+          "Trait_Name": "Properties"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "2 lb",
+          "Trait_Id": 90,
+          "Trait_Name": "Weight"
+        },
+        {
+          "AttributeSet_Id": 9,
+          "AttributeSet_ImportId": "DND5EW",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "10 gp",
+          "Trait_Id": 91,
+          "Trait_Name": "Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 10,
+      "AttributeSet_ImportId": "DND5EA",
+      "AttributeSet_Name": "Armor",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 2,
+      "GameSystem_ImportId": "DND5E",
+      "Traits": [
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Leather",
+          "Trait_Id": 92,
+          "Trait_Name": "Name"
+        },
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Light",
+          "Trait_Id": 93,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "11",
+          "Trait_Id": 94,
+          "Trait_Name": "Base AC"
+        },
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "No",
+          "Trait_Id": 95,
+          "Trait_Name": "Stealth Penalty"
+        },
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "None",
+          "Trait_Id": 96,
+          "Trait_Name": "Strength Reg."
+        },
+        {
+          "AttributeSet_Id": 10,
+          "AttributeSet_ImportId": "DND5EA",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "100 gp",
+          "Trait_Id": 97,
+          "Trait_Name": "Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 11,
+      "AttributeSet_ImportId": "DND5EG",
+      "AttributeSet_Name": "Gear",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 2,
+      "GameSystem_ImportId": "DND5E",
+      "Traits": [
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EG",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Potion of Healing",
+          "Trait_Id": 98,
+          "Trait_Name": "Name"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EG",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Consumable",
+          "Trait_Id": 99,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EG",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Common",
+          "Trait_Id": 100,
+          "Trait_Name": "Rarity"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EG",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "10 gp",
+          "Trait_Id": 101,
+          "Trait_Name": "Cost"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EG",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "1 lb",
+          "Trait_Id": 102,
+          "Trait_Name": "Weight"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 12,
+      "AttributeSet_ImportId": "DND5EM",
+      "AttributeSet_Name": "Magic",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 2,
+      "GameSystem_ImportId": "DND5E",
+      "Traits": [
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Potion of Healing",
+          "Trait_Id": 103,
+          "Trait_Name": "Name"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Consumable",
+          "Trait_Id": 104,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Common",
+          "Trait_Id": 105,
+          "Trait_Name": "Rarity"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Healing",
+          "Trait_Id": 106,
+          "Trait_Name": "Effect"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 107,
+          "Trait_Name": "Uses"
+        },
+        {
+          "AttributeSet_Id": 11,
+          "AttributeSet_ImportId": "DND5EM",
+          "GameSystem_ImportId": "DND5E",
+          "Trait_DefaultValue": "Not Required",
+          "Trait_Id": 108,
+          "Trait_Name": "Attunement"
+        }
+      ]
+    }
+  ]
+}
