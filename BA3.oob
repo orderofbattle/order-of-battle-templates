@@ -1,0 +1,141 @@
+{
+  "GameSystem_Id": 3,
+  "GameSystem_ImportId": "BA3",
+  "GameSystem_Name": "Bolt Action",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "3rd",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 13,
+      "AttributeSet_ImportId": "BA3C",
+      "AttributeSet_Name": "Character",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 3,
+      "GameSystem_ImportId": "BA3",
+      "Traits": [
+        {
+          "AttributeSet_Id": 13,
+          "AttributeSet_ImportId": "BA3C",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "6\"",
+          "Trait_Id": 109,
+          "Trait_Name": "Advance"
+        },
+        {
+          "AttributeSet_Id": 13,
+          "AttributeSet_ImportId": "BA3C",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "12\"",
+          "Trait_Id": 110,
+          "Trait_Name": "Run"
+        },
+        {
+          "AttributeSet_Id": 13,
+          "AttributeSet_ImportId": "BA3C",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "-",
+          "Trait_Id": 112,
+          "Trait_Name": "Special Rules"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 14,
+      "AttributeSet_ImportId": "BA3V",
+      "AttributeSet_Name": "Vehicle",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 3,
+      "GameSystem_ImportId": "BA3",
+      "Traits": [
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3V",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "9\"",
+          "Trait_Id": 113,
+          "Trait_Name": "Advance"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3V",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "18\"",
+          "Trait_Id": 114,
+          "Trait_Name": "Run"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3V",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "8+",
+          "Trait_Id": 115,
+          "Trait_Name": "Damage"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3V",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "-",
+          "Trait_Id": 116,
+          "Trait_Name": "Special Rules"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 15,
+      "AttributeSet_ImportId": "BA3W",
+      "AttributeSet_Name": "Weapon",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Gear",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 3,
+      "GameSystem_ImportId": "BA3",
+      "Traits": [
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3W",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "-",
+          "Trait_Id": 117,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3W",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "X\"",
+          "Trait_Id": 118,
+          "Trait_Name": "Range"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3W",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 119,
+          "Trait_Name": "Shots"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3W",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "-",
+          "Trait_Id": 120,
+          "Trait_Name": "Pen"
+        },
+        {
+          "AttributeSet_Id": 14,
+          "AttributeSet_ImportId": "BA3W",
+          "GameSystem_ImportId": "BA3",
+          "Trait_DefaultValue": "-",
+          "Trait_Id": 121,
+          "Trait_Name": "Special Rules"
+        }
+      ]
+    }
+  ]
+}
