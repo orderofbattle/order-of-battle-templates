@@ -1,0 +1,201 @@
+{
+  "GameSystem_Id": 4,
+  "GameSystem_ImportId": "MTG",
+  "GameSystem_Name": "Magic: The Gathering",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "N/A",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 16,
+      "AttributeSet_ImportId": "MTGC",
+      "AttributeSet_Name": "Creature",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 15,
+          "AttributeSet_ImportId": "MTGC",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{1}{1U}",
+          "Trait_Id": 122,
+          "Trait_Name": "Mana Cost"
+        },
+        {
+          "AttributeSet_Id": 15,
+          "AttributeSet_ImportId": "MTGC",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "2/2",
+          "Trait_Id": 123,
+          "Trait_Name": "Power/Toughness"
+        },
+        {
+          "AttributeSet_Id": 15,
+          "AttributeSet_ImportId": "MTGC",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "None",
+          "Trait_Id": 124,
+          "Trait_Name": "Keywords"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 17,
+      "AttributeSet_ImportId": "MTGL",
+      "AttributeSet_Name": "Land",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 16,
+          "AttributeSet_ImportId": "MTGL",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "1",
+          "Trait_Id": 125,
+          "Trait_Name": "Mana Produced"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 18,
+      "AttributeSet_ImportId": "MTGA",
+      "AttributeSet_Name": "Artifact",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 17,
+          "AttributeSet_ImportId": "MTGA",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{3}",
+          "Trait_Id": 126,
+          "Trait_Name": "Mana Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 19,
+      "AttributeSet_ImportId": "MTGE",
+      "AttributeSet_Name": "Enchantment",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 18,
+          "AttributeSet_ImportId": "MTGE",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{1}{1W}",
+          "Trait_Id": 127,
+          "Trait_Name": "Mana Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 20,
+      "AttributeSet_ImportId": "MTGP",
+      "AttributeSet_Name": "Planeswalker",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 19,
+          "AttributeSet_ImportId": "MTGP",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{2}{2U}",
+          "Trait_Id": 128,
+          "Trait_Name": "Mana Cost"
+        },
+        {
+          "AttributeSet_Id": 19,
+          "AttributeSet_ImportId": "MTGP",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "4",
+          "Trait_Id": 129,
+          "Trait_Name": "Loyalty"
+        },
+        {
+          "AttributeSet_Id": 19,
+          "AttributeSet_ImportId": "MTGP",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "None",
+          "Trait_Id": 130,
+          "Trait_Name": "Keywords"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 21,
+      "AttributeSet_ImportId": "MTGI",
+      "AttributeSet_Name": "Instant",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 20,
+          "AttributeSet_ImportId": "MTGI",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{1U}",
+          "Trait_Id": 131,
+          "Trait_Name": "Mana Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 22,
+      "AttributeSet_ImportId": "MTGS",
+      "AttributeSet_Name": "Sorcery",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 21,
+          "AttributeSet_ImportId": "MTGS",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "{1}{1R}",
+          "Trait_Id": 132,
+          "Trait_Name": "Mana Cost"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 23,
+      "AttributeSet_ImportId": "MTGT",
+      "AttributeSet_Name": "Token",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 4,
+      "GameSystem_ImportId": "MTG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 22,
+          "AttributeSet_ImportId": "MTGT",
+          "GameSystem_ImportId": "MTG",
+          "Trait_DefaultValue": "None",
+          "Trait_Id": 133,
+          "Trait_Name": "Keywords"
+        }
+      ]
+    }
+  ]
+}
