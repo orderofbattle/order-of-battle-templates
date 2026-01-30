@@ -1,0 +1,691 @@
+[
+  {
+    "Army_Id": 79,
+    "Army_Name": "Space Marine Template Army",
+    "Army_Nickname": "",
+    "Army_TotalPoints": 1575,
+    "Army_Notes": "This is a template army used for reference and as a starting point for Space Marine based armies in Warhammer 40K.",
+    "Units": [
+      {
+        "Unit_Id": 339,
+        "Army_Id": 79,
+        "Unit_Name": "Assault Intercessor Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 150,
+        "Unit_Notes": "Template set up as a 10 model squad. Every model is equipped with a heavy bolt pistol and Astartes chainsword.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 870,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Sergeant",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "Sergent can trade heavy bolt pistol or Astartes chainsword.",
+            "Character_DisplayOrder": 1
+          },
+          {
+            "Character_Id": 871,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 1",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 2
+          },
+          {
+            "Character_Id": 872,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 2",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 3
+          },
+          {
+            "Character_Id": 873,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 3",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 4
+          },
+          {
+            "Character_Id": 874,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 4",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 5
+          },
+          {
+            "Character_Id": 875,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 5",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 6
+          },
+          {
+            "Character_Id": 876,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 6",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 7
+          },
+          {
+            "Character_Id": 877,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 7",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 8
+          },
+          {
+            "Character_Id": 878,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 8",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 9
+          },
+          {
+            "Character_Id": 879,
+            "Army_Id": 0,
+            "Unit_Id": 339,
+            "Character_Name": "Assault Intercessor 9",
+            "Character_Nickname": "",
+            "Character_Points": 15,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 10
+          }
+        ]
+      },
+      {
+        "Unit_Id": 340,
+        "Army_Id": 79,
+        "Unit_Name": "Captain",
+        "Unit_Nickname": "",
+        "Unit_Points": 80,
+        "Unit_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, master-crafted bolter, and close combat weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 865,
+            "Army_Id": 0,
+            "Unit_Id": 340,
+            "Character_Name": "Captain",
+            "Character_Nickname": "",
+            "Character_Points": 80,
+            "Character_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, master-crafted bolter, and close combat weapon.",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 341,
+        "Army_Id": 79,
+        "Unit_Name": "Dreadnought",
+        "Unit_Nickname": "",
+        "Unit_Points": 135,
+        "Unit_Notes": "Template set up as a single model character. This model is equipped with an assault cannon, storm bolter, and Dreadnought combat weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 866,
+            "Army_Id": 0,
+            "Unit_Id": 341,
+            "Character_Name": "Dreadnought",
+            "Character_Nickname": "",
+            "Character_Points": 135,
+            "Character_Notes": "Template set up as a single model character. This model is equipped with an assault cannon, storm bolter, and Dreadnought combat weapon.",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 342,
+        "Army_Id": 79,
+        "Unit_Name": "Impulsor",
+        "Unit_Nickname": "",
+        "Unit_Points": 80,
+        "Unit_Notes": "Template set up as a single model character. This modelmis equipped with 2 storm bolters and armoured hull.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 867,
+            "Army_Id": 0,
+            "Unit_Id": 342,
+            "Character_Name": "Impulsor",
+            "Character_Nickname": "",
+            "Character_Points": 80,
+            "Character_Notes": "Template set up as a single model character. This modelmis equipped with 2 storm bolters and armoured hull.",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 343,
+        "Army_Id": 79,
+        "Unit_Name": "Intercessor Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 160,
+        "Unit_Notes": "Template set up as a 10 model squad. Every model is equipped with a bolt pistol, bolt rifle, and close combat weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 881,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Sergeant",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "Sergeants bolt rifle can and close combat weapon can be replaced.",
+            "Character_DisplayOrder": 1
+          },
+          {
+            "Character_Id": 882,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 1",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "For every 5 models, 1 with a bolter rifle can equip an Astartes grenade launcher.",
+            "Character_DisplayOrder": 2
+          },
+          {
+            "Character_Id": 883,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 2",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 3
+          },
+          {
+            "Character_Id": 884,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 3",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 4
+          },
+          {
+            "Character_Id": 885,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 4",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 5
+          },
+          {
+            "Character_Id": 886,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 5",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 6
+          },
+          {
+            "Character_Id": 887,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 6",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 7
+          },
+          {
+            "Character_Id": 888,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 7",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 8
+          },
+          {
+            "Character_Id": 889,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 8",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 9
+          },
+          {
+            "Character_Id": 890,
+            "Army_Id": 0,
+            "Unit_Id": 343,
+            "Character_Name": "Intercessor 9",
+            "Character_Nickname": "",
+            "Character_Points": 16,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 344,
+        "Army_Id": 79,
+        "Unit_Name": "Librarian",
+        "Unit_Nickname": "",
+        "Unit_Points": 65,
+        "Unit_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, Smite, and a force weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 868,
+            "Army_Id": 0,
+            "Unit_Id": 344,
+            "Character_Name": "Librarian",
+            "Character_Nickname": "",
+            "Character_Points": 65,
+            "Character_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, Smite, and a force weapon.",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 345,
+        "Army_Id": 79,
+        "Unit_Name": "Lieutenant",
+        "Unit_Nickname": "",
+        "Unit_Points": 65,
+        "Unit_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, master-crafed bolter, and close combat weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 869,
+            "Army_Id": 0,
+            "Unit_Id": 345,
+            "Character_Name": "Lieutenant",
+            "Character_Nickname": "",
+            "Character_Points": 65,
+            "Character_Notes": "Template set up as a single model character. This model is equipped with a bolt pistol, master-crafed bolter, and close combat weapon.",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 346,
+        "Army_Id": 79,
+        "Unit_Name": "Tactical Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 140,
+        "Unit_Notes": "Template set up as a 10 model squad. Every model is equipped with a bolt pistol, boltgun, and close combat weapon.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 892,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Sergeant",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "Sergeant\u0027s weapons can be replaced.",
+            "Character_DisplayOrder": 1
+          },
+          {
+            "Character_Id": 893,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 1",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "2 Tactical Marines boltguns can be replaced.",
+            "Character_DisplayOrder": 2
+          },
+          {
+            "Character_Id": 894,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 2",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "2 Tactical Marines boltguns can be replaced.",
+            "Character_DisplayOrder": 3
+          },
+          {
+            "Character_Id": 895,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 3",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 4
+          },
+          {
+            "Character_Id": 901,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 4",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 902,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 5",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 903,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 6",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 904,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 7",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 905,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 8",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 906,
+            "Army_Id": 0,
+            "Unit_Id": 346,
+            "Character_Name": "Tactical Marine 9",
+            "Character_Nickname": "",
+            "Character_Points": 14,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 347,
+        "Army_Id": 79,
+        "Unit_Name": "Terminator Assualt Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 360,
+        "Unit_Notes": "Template set up as a 10 model squad. Every model is equipped with a thunder hammer and storm shield.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 907,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Sergeant",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "Any number of models can replace weapons with twin lightning claws.",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 908,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 1",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 909,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 2",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 910,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 3",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 911,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 4",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 912,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 5",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 913,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 6",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 914,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 7",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 915,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 8",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 916,
+            "Army_Id": 0,
+            "Unit_Id": 347,
+            "Character_Name": "Assault Terminator 9",
+            "Character_Nickname": "",
+            "Character_Points": 36,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 348,
+        "Army_Id": 79,
+        "Unit_Name": "Terminator Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 340,
+        "Unit_Notes": "Template set up as a 10 model squad. Every model is equipped with a storm bolter and power fist.",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 917,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Sergeant",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "Sergeant\u0027s power fist can be replaced with a power weapon.",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 918,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 1",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "For every 5 models 1 storm bolter can be replaced. Any model can replace power fist with 1 chainfist.",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 919,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 2",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 920,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 3",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 921,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 4",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 922,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 5",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 923,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 6",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 924,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 7",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 925,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 8",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 926,
+            "Army_Id": 0,
+            "Unit_Id": 348,
+            "Character_Name": "Terminator 9",
+            "Character_Nickname": "",
+            "Character_Points": 34,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      }
+    ]
+  }
+]
