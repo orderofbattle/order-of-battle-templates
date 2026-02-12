@@ -1,0 +1,53 @@
+{
+  "GameSystem_Id": 5,
+  "GameSystem_ImportId": "BG",
+  "GameSystem_Name": "Board Games",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "N/A",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 24,
+      "AttributeSet_ImportId": "BGBG",
+      "AttributeSet_Name": "Board Game",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 5,
+      "GameSystem_ImportId": "BG",
+      "Traits": [
+        {
+          "AttributeSet_Id": 24,
+          "AttributeSet_ImportId": "BGBG",
+          "GameSystem_ImportId": "BG",
+          "Trait_DefaultValue": "2-6",
+          "Trait_Id": 134,
+          "Trait_Name": "Players"
+        },
+        {
+          "AttributeSet_Id": 24,
+          "AttributeSet_ImportId": "BGBG",
+          "GameSystem_ImportId": "BG",
+          "Trait_DefaultValue": "6+",
+          "Trait_Id": 135,
+          "Trait_Name": "Age Range"
+        },
+        {
+          "AttributeSet_Id": 24,
+          "AttributeSet_ImportId": "BGBG",
+          "GameSystem_ImportId": "BG",
+          "Trait_DefaultValue": "60 Minutes",
+          "Trait_Id": 136,
+          "Trait_Name": "Play Time"
+        },
+        {
+          "AttributeSet_Id": 24,
+          "AttributeSet_ImportId": "BGBG",
+          "GameSystem_ImportId": "BG",
+          "Trait_DefaultValue": "Board",
+          "Trait_Id": 137,
+          "Trait_Name": "Type"
+        }
+      ]
+    }
+  ]
+}
