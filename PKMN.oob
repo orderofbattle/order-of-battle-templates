@@ -1,0 +1,101 @@
+{
+  "GameSystem_Id": 6,
+  "GameSystem_ImportId": "PKMN",
+  "GameSystem_Name": "Pokemon",
+  "GameSystem_Notes": "",
+  "GameSystem_Version": "N/A",
+  "AttributeSets": [
+    {
+      "AttributeSet_Id": 25,
+      "AttributeSet_ImportId": "PKMNC",
+      "AttributeSet_Name": "Creature",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 6,
+      "GameSystem_ImportId": "PKMN",
+      "Traits": [
+        {
+          "AttributeSet_Id": 25,
+          "AttributeSet_ImportId": "PKMNC",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "Grass",
+          "Trait_Id": 138,
+          "Trait_Name": "Type"
+        },
+        {
+          "AttributeSet_Id": 25,
+          "AttributeSet_ImportId": "PKMNC",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "{1G}",
+          "Trait_Id": 139,
+          "Trait_Name": "Cost"
+        },
+        {
+          "AttributeSet_Id": 25,
+          "AttributeSet_ImportId": "PKMNC",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "50",
+          "Trait_Id": 140,
+          "Trait_Name": "HP"
+        },
+        {
+          "AttributeSet_Id": 25,
+          "AttributeSet_ImportId": "PKMNC",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "Basic",
+          "Trait_Id": 141,
+          "Trait_Name": "Stage"
+        },
+        {
+          "AttributeSet_Id": 25,
+          "AttributeSet_ImportId": "PKMNC",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "Fire",
+          "Trait_Id": 142,
+          "Trait_Name": "Weakness"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 26,
+      "AttributeSet_ImportId": "PKMNT",
+      "AttributeSet_Name": "Trainer",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 6,
+      "GameSystem_ImportId": "PKMN",
+      "Traits": [
+        {
+          "AttributeSet_Id": 26,
+          "AttributeSet_ImportId": "PKMNT",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "Item",
+          "Trait_Id": 143,
+          "Trait_Name": "Type"
+        }
+      ]
+    },
+    {
+      "AttributeSet_Id": 27,
+      "AttributeSet_ImportId": "PKMNE",
+      "AttributeSet_Name": "Energy",
+      "AttributeSet_Notes": "",
+      "AttributeSet_Type": "Character",
+      "AttributeSet_Version": "",
+      "GameSystem_Id": 6,
+      "GameSystem_ImportId": "PKMN",
+      "Traits": [
+        {
+          "AttributeSet_Id": 27,
+          "AttributeSet_ImportId": "PKMNE",
+          "GameSystem_ImportId": "PKMN",
+          "Trait_DefaultValue": "Grass",
+          "Trait_Id": 144,
+          "Trait_Name": "Type"
+        }
+      ]
+    }
+  ]
+}
