@@ -1,0 +1,487 @@
+[
+  {
+    "Army_Id": 83,
+    "Army_Name": "Imperial Guard Template Army",
+    "Army_Nickname": "",
+    "Army_TotalPoints": 1630,
+    "Army_Notes": "This is a template army for the Astra Militarum withing Warhammer 40k.",
+    "Units": [
+      {
+        "Unit_Id": 370,
+        "Army_Id": 83,
+        "Unit_Name": "Command Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 65,
+        "Unit_Notes": "Template command squad",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1051,
+            "Army_Id": 0,
+            "Unit_Id": 370,
+            "Character_Name": "Commander",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 1
+          },
+          {
+            "Character_Id": 1052,
+            "Army_Id": 0,
+            "Unit_Id": 370,
+            "Character_Name": "Guardsman with Vox",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 2
+          },
+          {
+            "Character_Id": 1056,
+            "Army_Id": 0,
+            "Unit_Id": 370,
+            "Character_Name": "Guardsman with medi-pack",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1057,
+            "Army_Id": 0,
+            "Unit_Id": 370,
+            "Character_Name": "Guardsman with Regimental Standard",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1058,
+            "Army_Id": 0,
+            "Unit_Id": 370,
+            "Character_Name": "Guardsman with Heavy Weapon",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 371,
+        "Army_Id": 83,
+        "Unit_Name": "Gaunt\u0027s Ghosts",
+        "Unit_Nickname": "",
+        "Unit_Points": 100,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1059,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Colonel-Commissar Ibram Gaunt",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 1
+          },
+          {
+            "Character_Id": 1060,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Colonel Colm Corbec",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 2
+          },
+          {
+            "Character_Id": 1061,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Scout Sergeant Oan Mkoll",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 4
+          },
+          {
+            "Character_Id": 1062,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Major Elim Rawne",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 3
+          },
+          {
+            "Character_Id": 1063,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Trooper \u0027Try Again\u0027 Bragg",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1064,
+            "Army_Id": 0,
+            "Unit_Id": 371,
+            "Character_Name": "Master Sniper Hlaine Larkin",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 372,
+        "Army_Id": 83,
+        "Unit_Name": "Commissar",
+        "Unit_Nickname": "",
+        "Unit_Points": 30,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1065,
+            "Army_Id": 0,
+            "Unit_Id": 372,
+            "Character_Name": "Commissar",
+            "Character_Nickname": "",
+            "Character_Points": 30,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 373,
+        "Army_Id": 83,
+        "Unit_Name": "Infantry Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 60,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1066,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Sergeant/Watchmaster",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1067,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 1",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1068,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 2",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1069,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 3",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1070,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 4",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1071,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 5",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1072,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 6",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1073,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 7",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1074,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 8",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1075,
+            "Army_Id": 0,
+            "Unit_Id": 373,
+            "Character_Name": "Trooper 9",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 374,
+        "Army_Id": 83,
+        "Unit_Name": "Heavy Weapons Squad",
+        "Unit_Nickname": "",
+        "Unit_Points": 60,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1076,
+            "Army_Id": 0,
+            "Unit_Id": 374,
+            "Character_Name": "Heavy Weapon 1",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1077,
+            "Army_Id": 0,
+            "Unit_Id": 374,
+            "Character_Name": "Heavy Weapon 2",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          },
+          {
+            "Character_Id": 1078,
+            "Army_Id": 0,
+            "Unit_Id": 374,
+            "Character_Name": "Heavy Weapon 3",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 375,
+        "Army_Id": 83,
+        "Unit_Name": "Armoured Sentinel",
+        "Unit_Nickname": "",
+        "Unit_Points": 70,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1079,
+            "Army_Id": 0,
+            "Unit_Id": 375,
+            "Character_Name": "Armoured Sentinel 1",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 376,
+        "Army_Id": 83,
+        "Unit_Name": "Scout Sentinel",
+        "Unit_Nickname": "",
+        "Unit_Points": 60,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 0,
+        "Characters": [
+          {
+            "Character_Id": 1080,
+            "Army_Id": 0,
+            "Unit_Id": 376,
+            "Character_Name": "Scout Sentinel 1",
+            "Character_Nickname": "",
+            "Character_Points": 0,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 377,
+        "Army_Id": 83,
+        "Unit_Name": "Chimera",
+        "Unit_Nickname": "",
+        "Unit_Points": 75,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1081,
+            "Army_Id": 0,
+            "Unit_Id": 377,
+            "Character_Name": "Chimera",
+            "Character_Nickname": "",
+            "Character_Points": 75,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 378,
+        "Army_Id": 83,
+        "Unit_Name": "Leman Russ Battle Tank",
+        "Unit_Nickname": "",
+        "Unit_Points": 180,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1082,
+            "Army_Id": 0,
+            "Unit_Id": 378,
+            "Character_Name": "Leman Russ Battle Tank",
+            "Character_Nickname": "",
+            "Character_Points": 180,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 379,
+        "Army_Id": 83,
+        "Unit_Name": "Rogal Dorn Battle Tank",
+        "Unit_Nickname": "",
+        "Unit_Points": 260,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1083,
+            "Army_Id": 0,
+            "Unit_Id": 379,
+            "Character_Name": "Rogal Dorn Battle Tank",
+            "Character_Nickname": "",
+            "Character_Points": 260,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 380,
+        "Army_Id": 83,
+        "Unit_Name": "Baneblade",
+        "Unit_Nickname": "",
+        "Unit_Points": 480,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1084,
+            "Army_Id": 0,
+            "Unit_Id": 380,
+            "Character_Name": "Baneblade",
+            "Character_Nickname": "",
+            "Character_Points": 480,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      },
+      {
+        "Unit_Id": 381,
+        "Army_Id": 83,
+        "Unit_Name": "Valkyrie",
+        "Unit_Nickname": "",
+        "Unit_Points": 190,
+        "Unit_Notes": "",
+        "Unit_ModelCount": 0,
+        "Unit_Quantity": 1,
+        "Unit_SingleCharacter": 1,
+        "Characters": [
+          {
+            "Character_Id": 1085,
+            "Army_Id": 0,
+            "Unit_Id": 381,
+            "Character_Name": "Valkyrie",
+            "Character_Nickname": "",
+            "Character_Points": 190,
+            "Character_Notes": "",
+            "Character_DisplayOrder": 0
+          }
+        ]
+      }
+    ]
+  }
+]
